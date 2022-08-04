@@ -1,4 +1,4 @@
-# React APP
+# Employees Register App
 
 Consuming a Rest API with React, the API is developed with .NET 6 and you can find in this [repository](https://github.com/christopherdavideh/api-dotnet).
 
