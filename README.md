@@ -1,6 +1,6 @@
 # React APP
 
-Consuming a Rest API with React, the API is developed with .NET 6 and you can fin in this [repository](https://github.com/christopherdavideh/react-api-dotnet).
+Consuming a Rest API with React, the API is developed with .NET 6 and you can fid in this [repository](https://github.com/christopherdavideh/api-dotnet).
 
 ![](https://christopherdavideh.com/images/react_dotnet.png)
 
