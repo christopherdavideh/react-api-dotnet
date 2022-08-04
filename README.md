@@ -35,6 +35,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+Detailed guide for installation [here](https://drive.google.com/file/d/1aNr1ojI_3TbEE3u1KZ5xRWzDMEdulY1y/view?usp=sharing) (Spanish Version).
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
